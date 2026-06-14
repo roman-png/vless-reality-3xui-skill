@@ -1,5 +1,7 @@
 # vless-reality-3xui-skill
 
+**English** · [Русский](README_RU.md)
+
 A Claude Code skill (and plugin) to **deploy and — crucially — debug** a self-hosted
 **VLESS-Reality** node (Xray, `flow=xtls-rprx-vision`, TCP/443) managed by the **3x-ui** panel on
 an Ubuntu/Debian VPS.
