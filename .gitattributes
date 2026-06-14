@@ -1,0 +1,7 @@
+# Force LF for everything (shell scripts must be LF on Linux), CRLF only for Windows scripts.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary

@@ -1,0 +1,15 @@
+{
+  "name": "vless-reality-3xui-skill",
+  "owner": {
+    "name": "roman-png",
+    "url": "https://github.com/roman-png"
+  },
+  "plugins": [
+    {
+      "name": "vless-reality-3xui",
+      "version": "0.1.0",
+      "description": "Deploy and debug a self-hosted VLESS-Reality node via the 3x-ui panel.",
+      "source": "./"
+    }
+  ]
+}

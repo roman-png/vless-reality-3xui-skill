@@ -1,0 +1,27 @@
+{
+  "name": "vless-reality-3xui",
+  "version": "0.1.0",
+  "description": "Deploy and debug a self-hosted VLESS-Reality node (Xray, xtls-rprx-vision, TCP/443) via the 3x-ui panel, with a battle-tested diagnostic playbook for SNI mismatch, MTU/ClientHello loss, and DPI/SNI filtering.",
+  "author": {
+    "name": "roman-png",
+    "url": "https://github.com/roman-png"
+  },
+  "homepage": "https://github.com/roman-png/vless-reality-3xui-skill",
+  "repository": "https://github.com/roman-png/vless-reality-3xui-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "vpn",
+    "vless",
+    "reality",
+    "xray",
+    "xtls",
+    "3x-ui",
+    "vps",
+    "dpi",
+    "censorship-circumvention",
+    "ubuntu",
+    "debian"
+  ]
+}
